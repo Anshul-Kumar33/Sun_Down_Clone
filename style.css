@@ -1158,7 +1158,7 @@ nav {
   border-radius: 30px;
 }
 
-/* @media (max-width: 900px) {
+@media (max-width: 900px) {
   #page4 {
     padding: 6vw 4vw;
   }
@@ -1200,7 +1200,7 @@ nav {
     height: 50vh;
     border-radius: 0 0 30px 30px;
   }
-} */
+}
 
 @media (max-width: 600px) {
   #page4 {
