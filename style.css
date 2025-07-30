@@ -1681,3 +1681,12 @@ footer .footer-effect-right {
     height: 10vh;
   }
 }
+
+@media (max-width: 900px) {
+  .footer-top .right h6 {
+    display: none;
+  }
+  .footer-bottom {
+    display: none;
+  }
+}
