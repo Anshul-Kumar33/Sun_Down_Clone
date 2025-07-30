@@ -219,7 +219,7 @@ nav {
 
 
 
-/* @media (max-width: 900px) {
+@media (max-width: 900px) {
   .cursor {
     display: none;
   }
@@ -276,7 +276,7 @@ nav {
     margin-top: 6vw;
     border-radius: 1rem;
   }
-} */
+} 
 
 /* 📱 Mobile Devices (up to 767px) */
 @media (max-width: 767px) {
